@@ -34,6 +34,12 @@ Use pip to install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+### 📄 **requirements.txt**
+```yaml
+Save this as `requirements.txt` in your project directory.
+
+proxmoxer requests PyQt6 PyQt6-WebEngine
+```
 
 ▶️ Usage
 Simply run the main script:
@@ -69,10 +75,3 @@ This will launch the Proxmox Manager UI.
 - If you find an issue, please open a GitHub issue.
 
 🔥 Star this repo if you find it useful! ⭐
-
-### 📄 **requirements.txt**
-```yaml
-Save this as `requirements.txt` in your project directory.
-
-proxmoxer requests PyQt6 PyQt6-WebEngine
-```
