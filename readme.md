@@ -76,15 +76,3 @@ Save this as `requirements.txt` in your project directory.
 
 proxmoxer requests PyQt6 PyQt6-WebEngine
 ```
-
-### ✅ **How to Use**
-1. **Upload** `README.md` and `requirements.txt` to your GitHub repository.
-2. **Replace** `"YOUR_USERNAME"` in the README with your actual GitHub username.
-3. **Add Screenshots** by uploading images and linking them in the **"Screenshots"** section.
-4. **Push your changes**:
-
-```bash
-   git add README.md requirements.txt
-   git commit -m "Add README and requirements"
-   git push origin main
-```
