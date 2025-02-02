@@ -46,7 +46,7 @@ This will launch the Proxmox Manager UI.
 
 🛠️ Requirements
 - Python 3.11+ (recommended)
-- Proxmox VE 6+
+- Proxmox VE 8.3+
 - Dependencies (see requirements.txt)
 
 📝 TODO / Future Features
